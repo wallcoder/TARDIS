@@ -1,0 +1,118 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: black;
+    background-size: 100%;
+
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    
+}
+
+img {
+    margin-top: 11.75%;
+    margin-left: 0.5%;
+    
+    min-width: 6.149%;
+    min-height: 50.834%;
+    
+
+    filter: brightness(0.7);
+    transition: box-shadow 0.05s linear, transform 0.7s ease-out;
+
+    cursor: pointer;
+}
+
+a {
+    margin-top: 11.75%;
+    margin-left: 0.5%;
+
+}
+
+
+
+img:hover {
+    filter: brightness(1.4);
+    box-shadow: 0px 0px 13px 0px white;
+    transform: scale(1.05);
+    
+}
+
+.one:hover  {
+    box-shadow:  0px 0px 13px 0px #e3ece7;
+    
+}
+
+.two:hover  {
+    box-shadow:  0px 0px 13px 0px #f4fafc;
+    
+}
+
+.three:hover  {
+    box-shadow:  0px 0px 13px 0px #f67e59;
+    
+}
+
+.four:hover  {
+    box-shadow:  0px 0px 13px 0px #defaf7;
+    
+}
+
+.five:hover  {
+    box-shadow:  0px 0px 13px 0px #8cc5e0;
+    
+}
+
+.six:hover  {
+    box-shadow:  0px 0px 13px 0px #99bde6;
+    
+}
+
+.seven:hover  {
+    box-shadow:  0px 0px 13px 0px #a363e9;
+    
+}
+
+.eight:hover  {
+    box-shadow:  0px 0px 13px 0px #babfb1;
+    
+}
+
+.war:hover  {
+    box-shadow:  0px 0px 13px 0px #ec7004;
+    
+}
+
+.nine:hover  {
+    box-shadow:  0px 0px 13px 0px #d94622;
+    
+}
+
+.ten:hover  {
+    box-shadow:  0px 0px 13px 0px #77c9e9;
+    
+}
+
+.eleven:hover  {
+    box-shadow:  0px 0px 13px 0px #80d3db;
+    
+}
+
+.twelf:hover  {
+    box-shadow:  0px 0px 13px 0px #f6f4d8;
+    
+}
+
+.thirteen:hover  {
+    box-shadow:  0px 0px 13px 0px #30833a;
+    
+}
+
+
+ 
